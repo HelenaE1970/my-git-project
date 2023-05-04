@@ -7,3 +7,7 @@ def greeting () :
 
 def greeting () :
     print("Hi there")
+    
+ def greeting () :
+    print("Hi there")
+
