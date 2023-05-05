@@ -11,3 +11,7 @@
 > Made more changes for git pull/fetch demo
 
 >  Made more changes for git pull/fetch demo
+
+
+> Demo to remove branches
+> 
