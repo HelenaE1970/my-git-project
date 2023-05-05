@@ -9,5 +9,5 @@ def greeting () :
     print("Hi there")
 
 def greeting () :
-    print("Hi there")
+    print("Updated python fuction for merge conflict demo")
 
