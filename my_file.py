@@ -7,5 +7,5 @@ def greeting () :
 
 
 def greeting () :
-    print("Updated python funcion for merge conflict demo")
+    print("My latest modification")
 
