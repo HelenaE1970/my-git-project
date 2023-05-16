@@ -1,9 +1,8 @@
 # My Git Project
 
-> My innocent little change.
+> My code for the git project
 
 ## I´m  in the feature branch
-
 
 > Another code change again
 
@@ -11,8 +10,10 @@
 
 > Made more changes for git pull/fetch demo
 
->  Made more changes for git pull/fetch demo
 
 
-> Demo to remove branches
-> 
+
+
+
+
+> Made more changes for git pull/fetch demo
